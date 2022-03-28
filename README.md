@@ -1,2 +1,3 @@
-# krit
-krit test
+# hello welcome to my proflie 🔢
+
+welcome
